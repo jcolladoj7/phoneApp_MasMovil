@@ -1,0 +1,6 @@
+INSERT INTO Phone (id, image,name, description, price) VALUES (1, 'https://www.xataka.com/analisis/iphone-11-pro-analisis-caracteristicas-precio-especificaciones', 'Iphone 12', 'Iphone 12 Pro 256GB', 1522.90);
+INSERT INTO Phone (id, image,name, description, price) VALUES (2, 'https://www.xataka.com/analisis/iphone-11-pro-analisis-caracteristicas-precio-especificaciones', 'Samsung Galaxy', 'Samsung Galaxy  64GB', 789.90);
+INSERT INTO Phone (id, image,name, description, price) VALUES (3, 'https://www.xataka.com/analisis/iphone-11-pro-analisis-caracteristicas-precio-especificaciones', 'Oppo Renno', 'Oppo Reno 128GB', 450.0);
+INSERT INTO Phone (id, image,name, description, price) VALUES (4, 'https://www.xataka.com/analisis/iphone-11-pro-analisis-caracteristicas-precio-especificaciones', 'Huawei P30', 'Huawei P30 128GB', 222.70);
+INSERT INTO Phone (id, image,name, description, price) VALUES (5, 'https://www.xataka.com/analisis/iphone-11-pro-analisis-caracteristicas-precio-especificaciones', 'Xiaomi', 'Xiaomi 32GB', 180.90);
+commit;
